@@ -1,0 +1,13 @@
+
+
+SyncBranchAcrossDevices();
+// this is my new practice file 
+
+
+#find the tabs
+  tabs = this.tabs();
+  
+ #Apply changes
+ apply = this.apply();
+
+
